@@ -1,0 +1,1 @@
+this folder stores the information shared among various components in my React Application
